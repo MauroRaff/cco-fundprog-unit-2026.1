@@ -39,7 +39,7 @@ def main ():
                 print("\n--- RESUMO DO PLANO MESTRE ---")
                 print(f"produto: {produto}")
                 print(f"Volume: {quantidade_pedida} unidades")
-                print(f"Prazo:sSemana {semana_entrega}")
+                print(f"Prazo: Semana {semana_entrega}")
             else:
                 print("\nNenhuma demanda registrada. Por favor, insira uma demanda primeiro.")
         elif opcao == "4":
